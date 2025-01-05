@@ -1,0 +1,40 @@
+{
+  "name": "react-fc",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "application.js",
+  "keywords": [
+    "react"
+  ],
+  "author": "Alexei Danchenkov",
+  "license": "ISC",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1",
+    "stylelint": "^16.12.0",
+    "stylelint-config-clean-order": "^6.1.0",
+    "stylelint-config-standard-scss": "^14.0.0",
+    "stylelint-scss": "^6.10.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
